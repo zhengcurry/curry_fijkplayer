@@ -13,8 +13,9 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
-}
 
+    namespace 'com.befovy.fijkplayer'
+}
 
 dependencies {
 
